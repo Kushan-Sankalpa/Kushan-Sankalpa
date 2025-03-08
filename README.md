@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend & Backend developer from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kushan-sankalpa&label=Profile%20views&color=0e75b6&style=flat" alt="kushan-sankalpa" /> </p>
 
-- 🔭 I’m currently working on **ModernCalculator**
+- 🔭 I’m currently working on **Walipilla Sinhala learning app**
 
 - 🌱 I’m currently learning **OOP with Java**
 
